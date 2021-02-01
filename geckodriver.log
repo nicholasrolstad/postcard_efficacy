@@ -1519,3 +1519,1363 @@ JavaScript error: https://js.zohocdn.com/crm/javascript/zcrm4_aaeb97a_.js?env=cr
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1611161827589	geckodriver	INFO	geckodriver 0.21.0
+1611161827612	geckodriver	INFO	Listening on 127.0.0.1:49382
+1611161830540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NICHOL~1\\AppData\\Local\\Temp\\rust_mozprofile.4Mc0JWfcq9yl"
+1611161831657	Marionette	TRACE	Marionette enabled
+1611161831690	Marionette	TRACE	Received observer notification toplevel-window-ready
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611161836153	Marionette	TRACE	Received observer notification marionette-startup-requested
+1611161836153	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1611161836182	Marionette	TRACE	All scripts recorded.
+1611161836183	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1611161836183	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1611161836183	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1611161836184	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1611161836184	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1611161836187	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1611161836187	Marionette	DEBUG	Setting recommended pref browser.search.update to false
+1611161836188	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1611161836188	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1611161836188	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1611161836188	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1611161836189	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1611161836189	Marionette	DEBUG	Setting recommended pref browser.toolbars.bookmarks.visibility to never
+1611161836189	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1611161836189	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1611161836192	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1611161836192	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1611161836192	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1611161836193	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1611161836193	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1611161836193	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1611161836195	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1611161836196	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1611161836196	Marionette	DEBUG	Setting recommended pref extensions.getAddons.discovery.api_url to data:, 
+1611161836197	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1611161836197	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1611161836197	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1611161836197	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1611161836198	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1611161836198	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1611161836200	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1611161836205	Marionette	INFO	Listening on port 49390
+1611161836206	Marionette	DEBUG	Marionette is listening
+1611161836302	Marionette	DEBUG	Remote agent not available for this build and platform
+1611161836303	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:49405
+1611161836316	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1611161836317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611161836332	Marionette	TRACE	[18] Frame script loaded
+1611161836367	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"26649bc6-9287-44f5-ab98-cbc704802d44","capabilities":{"browserName":"firefox","browserVersion":"84.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1611161836380	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise"}]
+1611161836388	Marionette	TRACE	[18] MarionetteCommands actor created for window id 4294967297
+1611161836408	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967297
+1611161836409	Marionette	TRACE	Received event beforeunload for about:blank
+1611161836803	Marionette	TRACE	Received event pagehide for about:blank
+1611161837491	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967298
+1611161837492	Marionette	TRACE	Received event DOMContentLoaded for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611161838109	Marionette	TRACE	Received event pageshow for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611161838110	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1611161838132	Marionette	DEBUG	0 -> [0,3,"WebDriver:MaximizeWindow",{}]
+1611161838428	Marionette	DEBUG	0 <- [1,3,null,{"x":2285,"y":14,"width":1296,"height":975}]
+1611161838441	Marionette	DEBUG	0 -> [0,4,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"login_id\"]"}]
+1611161838442	Marionette	TRACE	[18] MarionetteCommands actor created for window id 4294967298
+1611161838450	Marionette	DEBUG	0 <- [1,4,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"3ce6a1d5-6903-4611-b49c-5fe391a4a0ca"}}]
+1611161838509	Marionette	DEBUG	0 -> [0,5,"WebDriver:ElementSendKeys",{"id":"3ce6a1d5-6903-4611-b49c-5fe391a4a0ca","text":"nicholas.rolstad@us-solar.com","value":["n","i","c","h","o","l","a","s",".","r","o","l","s","t","a","d","@","u","s","-","s","o","l","a","r",".","c","o","m"]}]
+1611161838619	Marionette	DEBUG	0 <- [1,5,null,{"value":null}]
+1611161838627	Marionette	DEBUG	0 -> [0,6,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"nextbtn\"]"}]
+1611161838630	Marionette	DEBUG	0 <- [1,6,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"fd018b93-8c5d-4450-a452-712fd8502d32"}}]
+1611161838633	Marionette	DEBUG	0 -> [0,7,"WebDriver:ElementClick",{"id":"fd018b93-8c5d-4450-a452-712fd8502d32"}]
+1611161838650	Marionette	TRACE	Received DOM event click for [object HTMLSpanElement]
+1611161838874	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611161838875	Marionette	DEBUG	0 <- [1,7,null,{"value":null}]
+1611161838877	Marionette	DEBUG	0 -> [0,8,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"password\"]"}]
+1611161838879	Marionette	DEBUG	0 <- [1,8,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"a9dab31b-1419-419d-8cda-c836eb8f0777"}}]
+1611161841881	Marionette	DEBUG	0 -> [0,9,"WebDriver:ElementSendKeys",{"id":"a9dab31b-1419-419d-8cda-c836eb8f0777","text":"Redrover1!","value":["R","e","d","r","o","v","e","r","1","!"]}]
+1611161841891	Marionette	DEBUG	0 <- [1,9,null,{"value":null}]
+1611161844894	Marionette	DEBUG	0 -> [0,10,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"nextbtn\"]"}]
+1611161844895	Marionette	DEBUG	0 <- [1,10,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"fd018b93-8c5d-4450-a452-712fd8502d32"}}]
+1611161844898	Marionette	DEBUG	0 -> [0,11,"WebDriver:ElementClick",{"id":"fd018b93-8c5d-4450-a452-712fd8502d32"}]
+1611161844902	Marionette	TRACE	Received DOM event click for [object HTMLSpanElement]
+1611161844902	Marionette	TRACE	Received DOM event click for [object HTMLSpanElement]
+1611161845073	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967298
+1611161845073	Marionette	TRACE	Received event beforeunload for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611161846203	Marionette	TRACE	Received event pagehide for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611161848393	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967299
+1611161848394	Marionette	TRACE	Received event DOMContentLoaded for https://crm.zoho.com/crm/ShowHomePage.do
+1611161848408	Marionette	TRACE	[4294967297] MarionetteEvents actor created for window id 4294967301
+1611161848409	Marionette	TRACE	[4294967298] MarionetteEvents actor created for window id 4294967303
+1611161848409	Marionette	TRACE	[4294967299] MarionetteEvents actor created for window id 4294967305
+1611161848724	Marionette	TRACE	[4294967300] MarionetteEvents actor created for window id 4294967307
+1611161849241	Marionette	TRACE	[4294967301] MarionetteEvents actor created for window id 4294967309
+JavaScript error: https://js.zohocdn.com/ichat/js/Jan_05_2021_1_wmsbar.js, line 1: TypeError: document.getElementById(...) is null
+1611161849926	Marionette	TRACE	[4294967300] MarionetteEvents actor created for window id 4294967310
+1611161850260	Marionette	TRACE	[4294967302] MarionetteEvents actor created for window id 4294967312
+1611161850275	Marionette	TRACE	[4294967302] MarionetteEvents actor created for window id 4294967315
+1611161850424	Marionette	TRACE	[4294967303] MarionetteEvents actor created for window id 4294967314
+1611161851202	Marionette	TRACE	[4294967303] MarionetteEvents actor created for window id 4294967316
+1611161851549	Marionette	TRACE	Received event pageshow for https://crm.zoho.com/crm/org640607140/tab/Home/begin
+1611161851550	Marionette	DEBUG	0 <- [1,11,null,{"value":null}]
+1611161851554	Marionette	DEBUG	0 -> [0,12,"WebDriver:FindElement",{"using":"link text","value":"Reports"}]
+1611161851556	Marionette	TRACE	[18] MarionetteCommands actor created for window id 4294967299
+1611161851589	Marionette	DEBUG	0 <- [1,12,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"59c5362b-73f2-4740-90c7-4294d4750d9c"}}]
+1611161851594	Marionette	DEBUG	0 -> [0,13,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"59c5362b-73f2-4740-90c7-4294d4750d9c","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611161851607	Marionette	DEBUG	0 <- [1,13,null,{"value":true}]
+1611161851609	Marionette	DEBUG	0 -> [0,14,"WebDriver:IsElementEnabled",{"id":"59c5362b-73f2-4740-90c7-4294d4750d9c"}]
+1611161851612	Marionette	DEBUG	0 <- [1,14,null,{"value":true}]
+1611161851614	Marionette	DEBUG	0 -> [0,15,"WebDriver:ElementClick",{"id":"59c5362b-73f2-4740-90c7-4294d4750d9c"}]
+1611161851648	Marionette	TRACE	Received DOM event click for https://crm.zoho.com/crm/org640607140/tab/Reports
+1611161851740	Marionette	TRACE	[4294967307] MarionetteEvents actor created for window id 4294967324
+JavaScript error: https://js.zohocdn.com/crm/javascript/zcrm4_aaeb97a_.js?env=crm&jscors=true, line 1: TypeError: a is undefined
+1611161851893	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611161851893	Marionette	DEBUG	0 <- [1,15,null,{"value":null}]
+1611161851895	Marionette	DEBUG	0 -> [0,16,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611161852155	Marionette	DEBUG	0 <- [1,16,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611161852657	Marionette	DEBUG	0 -> [0,17,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611161852898	Marionette	DEBUG	0 <- [1,17,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611161853403	Marionette	DEBUG	0 -> [0,18,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611161853641	Marionette	DEBUG	0 <- [1,18,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611161854146	Marionette	DEBUG	0 -> [0,19,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611161854359	Marionette	DEBUG	0 <- [1,19,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611161854861	Marionette	DEBUG	0 -> [0,20,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611161855123	Marionette	DEBUG	0 <- [1,20,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611161855627	Marionette	DEBUG	0 -> [0,21,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611161855927	Marionette	DEBUG	0 <- [1,21,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611161856429	Marionette	DEBUG	0 -> [0,22,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611161856651	Marionette	DEBUG	0 <- [1,22,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611161857154	Marionette	DEBUG	0 -> [0,23,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611161857370	Marionette	DEBUG	0 <- [1,23,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611161857874	Marionette	DEBUG	0 -> [0,24,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611161858071	Marionette	DEBUG	0 <- [1,24,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611161858575	Marionette	DEBUG	0 -> [0,25,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611161858784	Marionette	DEBUG	0 <- [1,25,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611161859286	Marionette	DEBUG	0 -> [0,26,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611161859388	Marionette	DEBUG	0 <- [1,26,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"b4a2ddcb-dd60-4966-a792-b03b14905baa"}}]
+1611161859392	Marionette	DEBUG	0 -> [0,27,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"b4a2ddcb-dd60-4966-a792-b03b14905baa","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611161859402	Marionette	DEBUG	0 <- [1,27,null,{"value":true}]
+1611161859404	Marionette	DEBUG	0 -> [0,28,"WebDriver:IsElementEnabled",{"id":"b4a2ddcb-dd60-4966-a792-b03b14905baa"}]
+1611161859406	Marionette	DEBUG	0 <- [1,28,null,{"value":true}]
+1611161859408	Marionette	DEBUG	0 -> [0,29,"WebDriver:ElementClick",{"id":"b4a2ddcb-dd60-4966-a792-b03b14905baa"}]
+1611161859432	Marionette	TRACE	Received DOM event click for https://crm.zoho.com/crm/org640607140/tab/Reports/2317828000048326085?folderId=2317828000005345003&repType=tabular
+1611161859649	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611161859649	Marionette	DEBUG	0 <- [1,29,null,{"value":null}]
+1611161859651	Marionette	DEBUG	0 -> [0,30,"WebDriver:FindElement",{"using":"css selector","value":".rep_exportbtnNew"}]
+1611161859652	Marionette	DEBUG	0 <- [1,30,{"error":"no such element","message":"Unable to locate element: .rep_exportbtnNew","stacktrace":"WebDriverError@chrome: ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611161860154	Marionette	DEBUG	0 -> [0,31,"WebDriver:FindElement",{"using":"css selector","value":".rep_exportbtnNew"}]
+1611161860155	Marionette	DEBUG	0 <- [1,31,{"error":"no such element","message":"Unable to locate element: .rep_exportbtnNew","stacktrace":"WebDriverError@chrome: ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611161860658	Marionette	DEBUG	0 -> [0,32,"WebDriver:FindElement",{"using":"css selector","value":".rep_exportbtnNew"}]
+1611161860661	Marionette	DEBUG	0 <- [1,32,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"7b7d5c54-18f5-4674-b72f-7ac40f0b6ef9"}}]
+1611161860666	Marionette	DEBUG	0 -> [0,33,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"7b7d5c54-18f5-4674-b72f-7ac40f0b6ef9","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611161860682	Marionette	DEBUG	0 <- [1,33,null,{"value":true}]
+1611161860684	Marionette	DEBUG	0 -> [0,34,"WebDriver:IsElementEnabled",{"id":"7b7d5c54-18f5-4674-b72f-7ac40f0b6ef9"}]
+1611161860689	Marionette	DEBUG	0 <- [1,34,null,{"value":true}]
+1611161860691	Marionette	DEBUG	0 -> [0,35,"WebDriver:ElementClick",{"id":"7b7d5c54-18f5-4674-b72f-7ac40f0b6ef9"}]
+1611161860703	Marionette	TRACE	Received DOM event click for [object HTMLButtonElement]
+1611161860904	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611161860904	Marionette	DEBUG	0 <- [1,35,null,{"value":null}]
+1611161860906	Marionette	DEBUG	0 -> [0,36,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"dropDownMenu\"]/ul/li[1]"}]
+1611161860908	Marionette	DEBUG	0 <- [1,36,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"7b18ca45-839c-4e41-a671-b8aebbf9a150"}}]
+1611161860912	Marionette	DEBUG	0 -> [0,37,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"7b18ca45-839c-4e41-a671-b8aebbf9a150","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611161860921	Marionette	DEBUG	0 <- [1,37,null,{"value":true}]
+1611161860922	Marionette	DEBUG	0 -> [0,38,"WebDriver:IsElementEnabled",{"id":"7b18ca45-839c-4e41-a671-b8aebbf9a150"}]
+1611161860924	Marionette	DEBUG	0 <- [1,38,null,{"value":true}]
+1611161860926	Marionette	DEBUG	0 -> [0,39,"WebDriver:ElementClick",{"id":"7b18ca45-839c-4e41-a671-b8aebbf9a150"}]
+1611161860937	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967299
+1611161860937	Marionette	TRACE	Received event beforeunload for https://crm.zoho.com/crm/org640607140/tab/Reports/2317828000048326085?folderId=2317828000005345003&repType=tabular
+1611161860939	Marionette	TRACE	[4294967297] MarionetteEvents actor created for window id 4294967301
+1611161860939	Marionette	TRACE	[4294967298] MarionetteEvents actor created for window id 4294967303
+1611161860939	Marionette	TRACE	[4294967299] MarionetteEvents actor created for window id 4294967305
+1611161860939	Marionette	TRACE	[4294967300] MarionetteEvents actor created for window id 4294967310
+1611161860940	Marionette	TRACE	[4294967301] MarionetteEvents actor created for window id 4294967309
+1611161860940	Marionette	TRACE	[4294967302] MarionetteEvents actor created for window id 4294967315
+1611161860940	Marionette	TRACE	[4294967303] MarionetteEvents actor created for window id 4294967316
+1611161860940	Marionette	TRACE	[4294967307] MarionetteEvents actor created for window id 4294967324
+1611161860941	Marionette	TRACE	[4294967308] MarionetteEvents actor created for window id 4294967327
+1611161860941	Marionette	TRACE	[4294967304] MarionetteEvents actor created for window id 4294967318
+1611161860941	Marionette	TRACE	[4294967305] MarionetteEvents actor created for window id 4294967320
+1611161860942	Marionette	TRACE	[4294967306] MarionetteEvents actor created for window id 4294967322
+1611161860942	Marionette	TRACE	[4294967309] MarionetteEvents actor created for window id 4294967329
+1611161860944	Marionette	TRACE	Received DOM event click for [object HTMLLIElement]
+1611161866156	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611161866156	Marionette	DEBUG	0 <- [1,39,null,{"value":null}]
+1611161866158	Marionette	DEBUG	0 -> [0,40,"WebDriver:CloseWindow",{}]
+1611161866158	Marionette	DEBUG	0 <- [1,40,null,[]]
+1611161866159	Marionette	DEBUG	0 -> [0,41,"Marionette:Quit",{"flags":["eForceQuit"]}]
+1611161866159	Marionette	INFO	Stopped listening on port 49390
+1611161866299	Marionette	TRACE	Received observer notification quit-application
+1611161866319	Marionette	DEBUG	0 <- [1,41,null,{"cause":"shutdown"}]
+1611161866434	Marionette	DEBUG	Closed connection 0
+1611161866615	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1611161866615	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1611161866616	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1611161866616	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1611161866616	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1611161866616	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1611161866616	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1611161866616	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1611161866617	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1611161866617	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1611161866617	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1611161866617	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1611161866617	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1611161866617	Marionette	DEBUG	Resetting recommended pref browser.toolbars.bookmarks.visibility
+1611161866617	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1611161866617	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1611161866617	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1611161866618	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1611161866618	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1611161866618	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1611161866618	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1611161866618	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1611161866618	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1611161866618	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1611161866619	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.discovery.api_url
+1611161866619	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1611161866619	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1611161866619	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1611161866619	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1611161866619	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1611161866619	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1611161866619	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1611161866620	Marionette	DEBUG	Marionette stopped listening
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611162343798	geckodriver	INFO	geckodriver 0.21.0
+1611162343820	geckodriver	INFO	Listening on 127.0.0.1:49779
+1611162346764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NICHOL~1\\AppData\\Local\\Temp\\rust_mozprofile.jqV2ADVBCw2x"
+1611162347919	Marionette	TRACE	Marionette enabled
+1611162347950	Marionette	TRACE	Received observer notification toplevel-window-ready
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611162352591	Marionette	TRACE	Received observer notification marionette-startup-requested
+1611162352591	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1611162352629	Marionette	TRACE	All scripts recorded.
+1611162352629	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1611162352630	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1611162352630	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1611162352630	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1611162352630	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1611162352632	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1611162352633	Marionette	DEBUG	Setting recommended pref browser.search.update to false
+1611162352633	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1611162352633	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1611162352633	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1611162352633	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1611162352634	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1611162352634	Marionette	DEBUG	Setting recommended pref browser.toolbars.bookmarks.visibility to never
+1611162352634	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1611162352634	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1611162352637	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1611162352637	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1611162352637	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1611162352637	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1611162352637	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1611162352638	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1611162352640	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1611162352640	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1611162352640	Marionette	DEBUG	Setting recommended pref extensions.getAddons.discovery.api_url to data:, 
+1611162352640	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1611162352640	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1611162352641	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1611162352641	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1611162352642	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1611162352642	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1611162352644	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1611162352648	Marionette	INFO	Listening on port 49787
+1611162352648	Marionette	DEBUG	Marionette is listening
+1611162353030	Marionette	DEBUG	Remote agent not available for this build and platform
+1611162353031	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:49800
+1611162353041	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1611162353042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611162353054	Marionette	TRACE	[18] Frame script loaded
+1611162353072	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"12ff18ae-bbcc-41a3-bb89-1fcbada76673","capabilities":{"browserName":"firefox","browserVersion":"84.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1611162367272	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise"}]
+1611162367277	Marionette	TRACE	[18] MarionetteCommands actor created for window id 4294967297
+1611162367280	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967297
+1611162367280	Marionette	TRACE	Received event beforeunload for about:blank
+1611162367687	Marionette	TRACE	Received event pagehide for about:blank
+1611162368353	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967298
+1611162368354	Marionette	TRACE	Received event DOMContentLoaded for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611162368963	Marionette	TRACE	Received event pageshow for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611162368963	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1611162368982	Marionette	DEBUG	0 -> [0,3,"WebDriver:MaximizeWindow",{}]
+1611162369315	Marionette	DEBUG	0 <- [1,3,null,{"x":-8,"y":-8,"width":1936,"height":1056}]
+1611162369327	Marionette	DEBUG	0 -> [0,4,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"login_id\"]"}]
+1611162369330	Marionette	TRACE	[18] MarionetteCommands actor created for window id 4294967298
+1611162369345	Marionette	DEBUG	0 <- [1,4,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"532ec073-a47c-46e4-8cb6-4a86dc8f2539"}}]
+1611162369348	Marionette	DEBUG	0 -> [0,5,"WebDriver:ElementSendKeys",{"id":"532ec073-a47c-46e4-8cb6-4a86dc8f2539","text":"nicholas.rolstad@us-solar.com","value":["n","i","c","h","o","l","a","s",".","r","o","l","s","t","a","d","@","u","s","-","s","o","l","a","r",".","c","o","m"]}]
+1611162369432	Marionette	DEBUG	0 <- [1,5,null,{"value":null}]
+1611162369438	Marionette	DEBUG	0 -> [0,6,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"nextbtn\"]"}]
+1611162369440	Marionette	DEBUG	0 <- [1,6,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"269d4387-1307-4785-b89b-43e49a617007"}}]
+1611162369442	Marionette	DEBUG	0 -> [0,7,"WebDriver:ElementClick",{"id":"269d4387-1307-4785-b89b-43e49a617007"}]
+1611162369452	Marionette	TRACE	Received DOM event click for [object HTMLSpanElement]
+1611162369673	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611162369674	Marionette	DEBUG	0 <- [1,7,null,{"value":null}]
+1611162369676	Marionette	DEBUG	0 -> [0,8,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"password\"]"}]
+1611162369678	Marionette	DEBUG	0 <- [1,8,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"3c277e8b-8dcd-4730-a546-c452a6c77f2f"}}]
+1611162372680	Marionette	DEBUG	0 -> [0,9,"WebDriver:ElementSendKeys",{"id":"3c277e8b-8dcd-4730-a546-c452a6c77f2f","text":"Redrover1!","value":["R","e","d","r","o","v","e","r","1","!"]}]
+1611162372689	Marionette	DEBUG	0 <- [1,9,null,{"value":null}]
+1611162375691	Marionette	DEBUG	0 -> [0,10,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"nextbtn\"]"}]
+1611162375693	Marionette	DEBUG	0 <- [1,10,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"269d4387-1307-4785-b89b-43e49a617007"}}]
+1611162375695	Marionette	DEBUG	0 -> [0,11,"WebDriver:ElementClick",{"id":"269d4387-1307-4785-b89b-43e49a617007"}]
+1611162375698	Marionette	TRACE	Received DOM event click for [object HTMLSpanElement]
+1611162375698	Marionette	TRACE	Received DOM event click for [object HTMLSpanElement]
+1611162375849	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967298
+1611162375849	Marionette	TRACE	Received event beforeunload for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611162377029	Marionette	TRACE	Received event pagehide for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611162379051	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967299
+1611162379051	Marionette	TRACE	Received event DOMContentLoaded for https://crm.zoho.com/crm/ShowHomePage.do
+1611162379057	Marionette	TRACE	[4294967297] MarionetteEvents actor created for window id 4294967301
+1611162379058	Marionette	TRACE	[4294967298] MarionetteEvents actor created for window id 4294967303
+1611162379058	Marionette	TRACE	[4294967299] MarionetteEvents actor created for window id 4294967305
+1611162379225	Marionette	TRACE	[4294967300] MarionetteEvents actor created for window id 4294967307
+1611162379765	Marionette	TRACE	[4294967301] MarionetteEvents actor created for window id 4294967309
+JavaScript error: https://js.zohocdn.com/ichat/js/Jan_05_2021_1_wmsbar.js, line 1: TypeError: document.getElementById(...) is null
+1611162380406	Marionette	TRACE	[4294967300] MarionetteEvents actor created for window id 4294967310
+1611162380550	Marionette	TRACE	[4294967302] MarionetteEvents actor created for window id 4294967312
+1611162380558	Marionette	TRACE	[4294967302] MarionetteEvents actor created for window id 4294967313
+1611162380570	Marionette	TRACE	Received event pageshow for https://crm.zoho.com/crm/org640607140/tab/Home/begin
+1611162380570	Marionette	DEBUG	0 <- [1,11,null,{"value":null}]
+1611162380576	Marionette	DEBUG	0 -> [0,12,"WebDriver:FindElement",{"using":"link text","value":"Reports"}]
+1611162380623	Marionette	TRACE	[18] MarionetteCommands actor created for window id 4294967299
+1611162380668	Marionette	DEBUG	0 <- [1,12,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"560e431e-e75c-46a7-b7c9-45558ec67fef"}}]
+1611162380675	Marionette	DEBUG	0 -> [0,13,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"560e431e-e75c-46a7-b7c9-45558ec67fef","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611162380709	Marionette	DEBUG	0 <- [1,13,null,{"value":true}]
+1611162380718	Marionette	DEBUG	0 -> [0,14,"WebDriver:IsElementEnabled",{"id":"560e431e-e75c-46a7-b7c9-45558ec67fef"}]
+1611162380730	Marionette	DEBUG	0 <- [1,14,null,{"value":true}]
+1611162380733	Marionette	DEBUG	0 -> [0,15,"WebDriver:ElementClick",{"id":"560e431e-e75c-46a7-b7c9-45558ec67fef"}]
+1611162380789	Marionette	TRACE	Received DOM event click for https://crm.zoho.com/crm/org640607140/tab/Reports
+1611162381031	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611162381032	Marionette	DEBUG	0 <- [1,15,null,{"value":null}]
+JavaScript error: https://js.zohocdn.com/crm/javascript/zcrm4_aaeb97a_.js?env=crm&jscors=true, line 1: TypeError: a is undefined
+1611162384840	Marionette	DEBUG	0 -> [0,16,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162385033	Marionette	DEBUG	0 <- [1,16,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162385536	Marionette	DEBUG	0 -> [0,17,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162385733	Marionette	DEBUG	0 <- [1,17,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162386236	Marionette	DEBUG	0 -> [0,18,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162386530	Marionette	DEBUG	0 <- [1,18,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162387033	Marionette	DEBUG	0 -> [0,19,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162387213	Marionette	DEBUG	0 <- [1,19,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162387715	Marionette	DEBUG	0 -> [0,20,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162387972	Marionette	DEBUG	0 <- [1,20,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162388474	Marionette	DEBUG	0 -> [0,21,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162388658	Marionette	DEBUG	0 <- [1,21,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162389161	Marionette	DEBUG	0 -> [0,22,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162389344	Marionette	DEBUG	0 <- [1,22,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162389846	Marionette	DEBUG	0 -> [0,23,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162390039	Marionette	DEBUG	0 <- [1,23,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162390542	Marionette	DEBUG	0 -> [0,24,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162390747	Marionette	DEBUG	0 <- [1,24,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162391249	Marionette	DEBUG	0 -> [0,25,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162391439	Marionette	DEBUG	0 <- [1,25,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162391941	Marionette	DEBUG	0 -> [0,26,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162392119	Marionette	DEBUG	0 <- [1,26,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162392621	Marionette	DEBUG	0 -> [0,27,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162392701	Marionette	DEBUG	0 <- [1,27,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"f2226f79-22a9-41d6-86cc-4f9a0758f2b9"}}]
+1611162392705	Marionette	DEBUG	0 -> [0,28,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"f2226f79-22a9-41d6-86cc-4f9a0758f2b9","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611162392714	Marionette	DEBUG	0 <- [1,28,null,{"value":true}]
+1611162392716	Marionette	DEBUG	0 -> [0,29,"WebDriver:IsElementEnabled",{"id":"f2226f79-22a9-41d6-86cc-4f9a0758f2b9"}]
+1611162392718	Marionette	DEBUG	0 <- [1,29,null,{"value":true}]
+1611162392719	Marionette	DEBUG	0 -> [0,30,"WebDriver:ElementClick",{"id":"f2226f79-22a9-41d6-86cc-4f9a0758f2b9"}]
+1611162392723	Marionette	DEBUG	0 <- [1,30,{"error":"element click intercepted","message":"Element <a href=\"/crm/org640607140/tab/Reports/2317828000048326085?fol ... onetteCommandsChild.jsm:188:24\nreceiveMessage@chrome://marionette/content/actors/MarionetteCommandsChild.jsm:89:31\n"},null]
+1611162404062	Marionette	DEBUG	0 -> [0,31,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162404244	Marionette	DEBUG	0 <- [1,31,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162404747	Marionette	DEBUG	0 -> [0,32,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162404926	Marionette	DEBUG	0 <- [1,32,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162405429	Marionette	DEBUG	0 -> [0,33,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162405604	Marionette	DEBUG	0 <- [1,33,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162406106	Marionette	DEBUG	0 -> [0,34,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162406283	Marionette	DEBUG	0 <- [1,34,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162406786	Marionette	DEBUG	0 -> [0,35,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162406961	Marionette	DEBUG	0 <- [1,35,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162407464	Marionette	DEBUG	0 -> [0,36,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162407638	Marionette	DEBUG	0 <- [1,36,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162408141	Marionette	DEBUG	0 -> [0,37,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162408344	Marionette	DEBUG	0 <- [1,37,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162408846	Marionette	DEBUG	0 -> [0,38,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162409022	Marionette	DEBUG	0 <- [1,38,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162409524	Marionette	DEBUG	0 -> [0,39,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162409718	Marionette	DEBUG	0 <- [1,39,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162410221	Marionette	DEBUG	0 -> [0,40,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162410401	Marionette	DEBUG	0 <- [1,40,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162410903	Marionette	DEBUG	0 -> [0,41,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162411097	Marionette	DEBUG	0 <- [1,41,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162411599	Marionette	DEBUG	0 -> [0,42,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162411763	Marionette	DEBUG	0 <- [1,42,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162412266	Marionette	DEBUG	0 -> [0,43,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162412439	Marionette	DEBUG	0 <- [1,43,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162412942	Marionette	DEBUG	0 -> [0,44,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162413033	Marionette	DEBUG	0 <- [1,44,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"f2226f79-22a9-41d6-86cc-4f9a0758f2b9"}}]
+1611162413037	Marionette	DEBUG	0 -> [0,45,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"f2226f79-22a9-41d6-86cc-4f9a0758f2b9","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611162413047	Marionette	DEBUG	0 <- [1,45,null,{"value":true}]
+1611162413049	Marionette	DEBUG	0 -> [0,46,"WebDriver:IsElementEnabled",{"id":"f2226f79-22a9-41d6-86cc-4f9a0758f2b9"}]
+1611162413051	Marionette	DEBUG	0 <- [1,46,null,{"value":true}]
+1611162413053	Marionette	DEBUG	0 -> [0,47,"WebDriver:ElementClick",{"id":"f2226f79-22a9-41d6-86cc-4f9a0758f2b9"}]
+1611162413077	Marionette	TRACE	Received DOM event click for https://crm.zoho.com/crm/org640607140/tab/Reports/2317828000048326085?folderId=2317828000005345003&repType=tabular
+1611162413296	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611162413297	Marionette	DEBUG	0 <- [1,47,null,{"value":null}]
+1611162420699	Marionette	DEBUG	0 -> [0,48,"WebDriver:FindElement",{"using":"css selector","value":".rep_exportbtnNew"}]
+1611162420704	Marionette	DEBUG	0 <- [1,48,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"ed2320e8-b29b-4b9e-b699-4d8bbb05ce7d"}}]
+1611162420707	Marionette	DEBUG	0 -> [0,49,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"ed2320e8-b29b-4b9e-b699-4d8bbb05ce7d","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611162420717	Marionette	DEBUG	0 <- [1,49,null,{"value":true}]
+1611162420721	Marionette	DEBUG	0 -> [0,50,"WebDriver:IsElementEnabled",{"id":"ed2320e8-b29b-4b9e-b699-4d8bbb05ce7d"}]
+1611162420723	Marionette	DEBUG	0 <- [1,50,null,{"value":true}]
+1611162420725	Marionette	DEBUG	0 -> [0,51,"WebDriver:ElementClick",{"id":"ed2320e8-b29b-4b9e-b699-4d8bbb05ce7d"}]
+1611162420733	Marionette	TRACE	Received DOM event click for [object HTMLButtonElement]
+1611162420943	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611162420943	Marionette	DEBUG	0 <- [1,51,null,{"value":null}]
+1611162427307	Marionette	DEBUG	0 -> [0,52,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"dropDownMenu\"]/ul/li[1]"}]
+1611162427312	Marionette	DEBUG	0 <- [1,52,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"3751d67c-9a23-40f4-8d7d-0b1da02f75d3"}}]
+1611162427316	Marionette	DEBUG	0 -> [0,53,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"3751d67c-9a23-40f4-8d7d-0b1da02f75d3","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611162427327	Marionette	DEBUG	0 <- [1,53,null,{"value":true}]
+1611162427329	Marionette	DEBUG	0 -> [0,54,"WebDriver:IsElementEnabled",{"id":"3751d67c-9a23-40f4-8d7d-0b1da02f75d3"}]
+1611162427332	Marionette	DEBUG	0 <- [1,54,null,{"value":true}]
+1611162427334	Marionette	DEBUG	0 -> [0,55,"WebDriver:ElementClick",{"id":"3751d67c-9a23-40f4-8d7d-0b1da02f75d3"}]
+1611162427344	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967299
+1611162427345	Marionette	TRACE	Received event beforeunload for https://crm.zoho.com/crm/org640607140/tab/Reports/2317828000048326085?folderId=2317828000005345003&repType=tabular
+1611162427346	Marionette	TRACE	[4294967297] MarionetteEvents actor created for window id 4294967301
+1611162427346	Marionette	TRACE	[4294967298] MarionetteEvents actor created for window id 4294967303
+1611162427347	Marionette	TRACE	[4294967299] MarionetteEvents actor created for window id 4294967305
+1611162427347	Marionette	TRACE	[4294967300] MarionetteEvents actor created for window id 4294967310
+1611162427347	Marionette	TRACE	[4294967301] MarionetteEvents actor created for window id 4294967309
+1611162427347	Marionette	TRACE	[4294967302] MarionetteEvents actor created for window id 4294967313
+1611162427347	Marionette	TRACE	[4294967303] MarionetteEvents actor created for window id 4294967315
+1611162427347	Marionette	TRACE	[4294967304] MarionetteEvents actor created for window id 4294967317
+1611162427348	Marionette	TRACE	[4294967305] MarionetteEvents actor created for window id 4294967319
+1611162427348	Marionette	TRACE	[4294967306] MarionetteEvents actor created for window id 4294967322
+1611162427348	Marionette	TRACE	[4294967307] MarionetteEvents actor created for window id 4294967324
+1611162427348	Marionette	TRACE	[4294967308] MarionetteEvents actor created for window id 4294967327
+1611162427348	Marionette	TRACE	[4294967309] MarionetteEvents actor created for window id 4294967329
+1611162427350	Marionette	TRACE	Received DOM event click for [object HTMLLIElement]
+1611162432565	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611162432567	Marionette	DEBUG	0 <- [1,55,null,{"value":null}]
+1611162440229	Marionette	DEBUG	0 -> [0,56,"WebDriver:CloseWindow",{}]
+1611162440229	Marionette	DEBUG	0 <- [1,56,null,[]]
+1611162440233	Marionette	DEBUG	0 -> [0,57,"Marionette:Quit",{"flags":["eForceQuit"]}]
+1611162440233	Marionette	INFO	Stopped listening on port 49787
+1611162440290	Marionette	TRACE	Received observer notification quit-application
+1611162440293	Marionette	DEBUG	0 <- [1,57,null,{"cause":"shutdown"}]
+1611162440364	Marionette	DEBUG	Closed connection 0
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000E,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1611162440520	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1611162440520	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1611162440520	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1611162440520	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1611162440520	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1611162440520	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1611162440521	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1611162440521	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1611162440521	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1611162440521	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1611162440521	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1611162440521	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1611162440521	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1611162440522	Marionette	DEBUG	Resetting recommended pref browser.toolbars.bookmarks.visibility
+1611162440522	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1611162440522	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1611162440522	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1611162440522	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1611162440522	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1611162440522	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1611162440523	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1611162440523	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1611162440523	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1611162440523	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1611162440523	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.discovery.api_url
+1611162440523	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1611162440523	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1611162440523	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1611162440523	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1611162440523	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1611162440523	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1611162440524	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1611162440524	Marionette	DEBUG	Marionette stopped listening
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611162621091	geckodriver	INFO	geckodriver 0.21.0
+1611162621113	geckodriver	INFO	Listening on 127.0.0.1:50091
+1611162624047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NICHOL~1\\AppData\\Local\\Temp\\rust_mozprofile.X2FFkj8LUbXE"
+1611162625142	Marionette	TRACE	Marionette enabled
+1611162625178	Marionette	TRACE	Received observer notification toplevel-window-ready
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611162629418	Marionette	TRACE	Received observer notification marionette-startup-requested
+1611162629418	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1611162629447	Marionette	TRACE	All scripts recorded.
+1611162629447	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1611162629448	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1611162629448	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1611162629448	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1611162629449	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1611162629450	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1611162629451	Marionette	DEBUG	Setting recommended pref browser.search.update to false
+1611162629451	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1611162629451	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1611162629451	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1611162629451	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1611162629452	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1611162629452	Marionette	DEBUG	Setting recommended pref browser.toolbars.bookmarks.visibility to never
+1611162629452	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1611162629452	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1611162629455	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1611162629455	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1611162629455	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1611162629455	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1611162629455	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1611162629456	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1611162629457	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1611162629457	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1611162629457	Marionette	DEBUG	Setting recommended pref extensions.getAddons.discovery.api_url to data:, 
+1611162629458	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1611162629458	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1611162629458	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1611162629458	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1611162629458	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1611162629459	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1611162629462	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1611162629465	Marionette	INFO	Listening on port 50099
+1611162629465	Marionette	DEBUG	Marionette is listening
+1611162629797	Marionette	DEBUG	Remote agent not available for this build and platform
+1611162629798	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:50114
+1611162629807	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1611162629808	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611162629824	Marionette	TRACE	[18] Frame script loaded
+1611162629847	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"121a3019-bfd7-46bf-8683-987f44cc3d8f","capabilities":{"browserName":"firefox","browserVersion":"84.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1611162629858	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise"}]
+1611162629867	Marionette	TRACE	[18] MarionetteCommands actor created for window id 4294967297
+1611162629871	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967297
+1611162629872	Marionette	TRACE	Received event beforeunload for about:blank
+1611162630533	Marionette	TRACE	Received event pagehide for about:blank
+1611162631284	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967298
+1611162631285	Marionette	TRACE	Received event DOMContentLoaded for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611162631891	Marionette	TRACE	Received event pageshow for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611162631891	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1611162631915	Marionette	DEBUG	0 -> [0,3,"WebDriver:MaximizeWindow",{}]
+1611162632230	Marionette	DEBUG	0 <- [1,3,null,{"x":-8,"y":-8,"width":1936,"height":1056}]
+1611162632244	Marionette	DEBUG	0 -> [0,4,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"login_id\"]"}]
+1611162632245	Marionette	TRACE	[18] MarionetteCommands actor created for window id 4294967298
+1611162632256	Marionette	DEBUG	0 <- [1,4,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"09d9cbf7-62d0-4bb2-aa46-7896b21ef815"}}]
+1611162632258	Marionette	DEBUG	0 -> [0,5,"WebDriver:ElementSendKeys",{"id":"09d9cbf7-62d0-4bb2-aa46-7896b21ef815","text":"nicholas.rolstad@us-solar.com","value":["n","i","c","h","o","l","a","s",".","r","o","l","s","t","a","d","@","u","s","-","s","o","l","a","r",".","c","o","m"]}]
+1611162632344	Marionette	DEBUG	0 <- [1,5,null,{"value":null}]
+1611162632351	Marionette	DEBUG	0 -> [0,6,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"nextbtn\"]"}]
+1611162632352	Marionette	DEBUG	0 <- [1,6,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"8aec52bb-1dab-47ea-87b2-7643c557610f"}}]
+1611162632355	Marionette	DEBUG	0 -> [0,7,"WebDriver:ElementClick",{"id":"8aec52bb-1dab-47ea-87b2-7643c557610f"}]
+1611162632365	Marionette	TRACE	Received DOM event click for [object HTMLSpanElement]
+1611162632590	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611162632590	Marionette	DEBUG	0 <- [1,7,null,{"value":null}]
+1611162632592	Marionette	DEBUG	0 -> [0,8,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"password\"]"}]
+1611162632594	Marionette	DEBUG	0 <- [1,8,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"935a4c8b-50ac-4e63-8fa4-a5ddf7bd8a30"}}]
+1611162635596	Marionette	DEBUG	0 -> [0,9,"WebDriver:ElementSendKeys",{"id":"935a4c8b-50ac-4e63-8fa4-a5ddf7bd8a30","text":"Redrover1!","value":["R","e","d","r","o","v","e","r","1","!"]}]
+1611162635606	Marionette	DEBUG	0 <- [1,9,null,{"value":null}]
+1611162638608	Marionette	DEBUG	0 -> [0,10,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"nextbtn\"]"}]
+1611162638610	Marionette	DEBUG	0 <- [1,10,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"8aec52bb-1dab-47ea-87b2-7643c557610f"}}]
+1611162638612	Marionette	DEBUG	0 -> [0,11,"WebDriver:ElementClick",{"id":"8aec52bb-1dab-47ea-87b2-7643c557610f"}]
+1611162638617	Marionette	TRACE	Received DOM event click for [object HTMLSpanElement]
+1611162638617	Marionette	TRACE	Received DOM event click for [object HTMLSpanElement]
+1611162638765	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967298
+1611162638766	Marionette	TRACE	Received event beforeunload for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611162640088	Marionette	TRACE	Received event pagehide for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611162642286	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967299
+1611162642287	Marionette	TRACE	Received event DOMContentLoaded for https://crm.zoho.com/crm/ShowHomePage.do
+1611162642294	Marionette	TRACE	[4294967297] MarionetteEvents actor created for window id 4294967301
+1611162642295	Marionette	TRACE	[4294967298] MarionetteEvents actor created for window id 4294967303
+1611162642296	Marionette	TRACE	[4294967299] MarionetteEvents actor created for window id 4294967305
+1611162642581	Marionette	TRACE	[4294967300] MarionetteEvents actor created for window id 4294967307
+1611162643067	Marionette	TRACE	[4294967301] MarionetteEvents actor created for window id 4294967309
+1611162643653	Marionette	TRACE	[4294967300] MarionetteEvents actor created for window id 4294967310
+JavaScript error: https://js.zohocdn.com/ichat/js/Jan_05_2021_1_wmsbar.js, line 1: TypeError: document.getElementById(...) is null
+1611162644136	Marionette	TRACE	[4294967302] MarionetteEvents actor created for window id 4294967312
+1611162644154	Marionette	TRACE	[4294967302] MarionetteEvents actor created for window id 4294967315
+1611162644244	Marionette	TRACE	[4294967303] MarionetteEvents actor created for window id 4294967314
+1611162644885	Marionette	TRACE	[4294967303] MarionetteEvents actor created for window id 4294967316
+1611162645297	Marionette	TRACE	Received event pageshow for https://crm.zoho.com/crm/org640607140/tab/Home/begin
+1611162645298	Marionette	DEBUG	0 <- [1,11,null,{"value":null}]
+1611162645306	Marionette	DEBUG	0 -> [0,12,"WebDriver:FindElement",{"using":"link text","value":"Reports"}]
+1611162645307	Marionette	TRACE	[18] MarionetteCommands actor created for window id 4294967299
+1611162645364	Marionette	DEBUG	0 <- [1,12,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"24c05cb6-c78e-40d0-af90-5ae0b360b386"}}]
+1611162645371	Marionette	DEBUG	0 -> [0,13,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"24c05cb6-c78e-40d0-af90-5ae0b360b386","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611162645398	Marionette	DEBUG	0 <- [1,13,null,{"value":true}]
+1611162645402	Marionette	DEBUG	0 -> [0,14,"WebDriver:IsElementEnabled",{"id":"24c05cb6-c78e-40d0-af90-5ae0b360b386"}]
+1611162645409	Marionette	DEBUG	0 <- [1,14,null,{"value":true}]
+1611162645414	Marionette	DEBUG	0 -> [0,15,"WebDriver:ElementClick",{"id":"24c05cb6-c78e-40d0-af90-5ae0b360b386"}]
+1611162645467	Marionette	TRACE	Received DOM event click for https://crm.zoho.com/crm/org640607140/tab/Reports
+1611162645517	Marionette	TRACE	[4294967307] MarionetteEvents actor created for window id 4294967324
+JavaScript error: https://js.zohocdn.com/crm/javascript/zcrm4_aaeb97a_.js?env=crm&jscors=true, line 1: TypeError: a is undefined
+1611162645760	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611162645762	Marionette	DEBUG	0 <- [1,15,null,{"value":null}]
+1611162645766	Marionette	DEBUG	0 -> [0,16,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162646124	Marionette	DEBUG	0 <- [1,16,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162646627	Marionette	DEBUG	0 -> [0,17,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162646877	Marionette	DEBUG	0 <- [1,17,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162647380	Marionette	DEBUG	0 -> [0,18,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162647586	Marionette	DEBUG	0 <- [1,18,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162648088	Marionette	DEBUG	0 -> [0,19,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162648277	Marionette	DEBUG	0 <- [1,19,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162648779	Marionette	DEBUG	0 -> [0,20,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162649031	Marionette	DEBUG	0 <- [1,20,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162649532	Marionette	DEBUG	0 -> [0,21,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162649735	Marionette	DEBUG	0 <- [1,21,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162650237	Marionette	DEBUG	0 -> [0,22,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162650434	Marionette	DEBUG	0 <- [1,22,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162650935	Marionette	DEBUG	0 -> [0,23,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162651114	Marionette	DEBUG	0 <- [1,23,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162651617	Marionette	DEBUG	0 -> [0,24,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162651790	Marionette	DEBUG	0 <- [1,24,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162652292	Marionette	DEBUG	0 -> [0,25,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162652460	Marionette	DEBUG	0 <- [1,25,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162652963	Marionette	DEBUG	0 -> [0,26,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162653138	Marionette	DEBUG	0 <- [1,26,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162653639	Marionette	DEBUG	0 -> [0,27,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162653808	Marionette	DEBUG	0 <- [1,27,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162654310	Marionette	DEBUG	0 -> [0,28,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162654480	Marionette	DEBUG	0 <- [1,28,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162654981	Marionette	DEBUG	0 -> [0,29,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162655152	Marionette	DEBUG	0 <- [1,29,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162655654	Marionette	DEBUG	0 -> [0,30,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162655806	Marionette	DEBUG	0 <- [1,30,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162656308	Marionette	DEBUG	0 -> [0,31,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162656479	Marionette	DEBUG	0 <- [1,31,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162656981	Marionette	DEBUG	0 -> [0,32,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162657152	Marionette	DEBUG	0 <- [1,32,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162657653	Marionette	DEBUG	0 -> [0,33,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162657826	Marionette	DEBUG	0 <- [1,33,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162658328	Marionette	DEBUG	0 -> [0,34,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162658499	Marionette	DEBUG	0 <- [1,34,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162659002	Marionette	DEBUG	0 -> [0,35,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162659173	Marionette	DEBUG	0 <- [1,35,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162659675	Marionette	DEBUG	0 -> [0,36,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162659846	Marionette	DEBUG	0 <- [1,36,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162660349	Marionette	DEBUG	0 -> [0,37,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162660502	Marionette	DEBUG	0 <- [1,37,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162696955	Marionette	DEBUG	Closed connection 0
+1611162697162	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1611162697163	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1611162697163	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1611162697163	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1611162697163	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1611162697164	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1611162697164	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1611162697164	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1611162697165	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1611162697165	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1611162697165	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1611162697165	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1611162697165	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1611162697165	Marionette	DEBUG	Resetting recommended pref browser.toolbars.bookmarks.visibility
+1611162697165	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1611162697166	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1611162697166	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1611162697166	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1611162697166	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1611162697167	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1611162697167	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1611162697167	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1611162697167	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1611162697167	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1611162697167	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.discovery.api_url
+1611162697168	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1611162697168	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1611162697168	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1611162697168	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1611162697168	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1611162697168	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1611162697169	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1611162697169	Marionette	INFO	Stopped listening on port 50099
+1611162697169	Marionette	DEBUG	Marionette stopped listening
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611162701995	geckodriver	INFO	geckodriver 0.21.0
+1611162702017	geckodriver	INFO	Listening on 127.0.0.1:50342
+1611162704945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NICHOL~1\\AppData\\Local\\Temp\\rust_mozprofile.HBuPxqdg7UcC"
+1611162706040	Marionette	TRACE	Marionette enabled
+1611162706072	Marionette	TRACE	Received observer notification toplevel-window-ready
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611162709911	Marionette	TRACE	Received observer notification marionette-startup-requested
+1611162709911	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1611162709973	Marionette	TRACE	All scripts recorded.
+1611162709973	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1611162709974	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1611162709974	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1611162709974	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1611162709974	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1611162709977	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1611162709977	Marionette	DEBUG	Setting recommended pref browser.search.update to false
+1611162709978	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1611162709978	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1611162709978	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1611162709978	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1611162709979	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1611162709979	Marionette	DEBUG	Setting recommended pref browser.toolbars.bookmarks.visibility to never
+1611162709979	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1611162709979	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1611162709982	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1611162709982	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1611162709982	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1611162709982	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1611162709983	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1611162709983	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1611162709985	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1611162709985	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1611162709985	Marionette	DEBUG	Setting recommended pref extensions.getAddons.discovery.api_url to data:, 
+1611162709986	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1611162709986	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1611162709986	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1611162709986	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1611162709987	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1611162709987	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1611162709990	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1611162709995	Marionette	INFO	Listening on port 50350
+1611162709996	Marionette	DEBUG	Marionette is listening
+1611162710200	Marionette	DEBUG	Remote agent not available for this build and platform
+1611162710202	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:50365
+1611162710229	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1611162710229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611162710245	Marionette	TRACE	[18] Frame script loaded
+1611162710267	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"2623d200-db87-4a00-92fd-f2d4f55fb0e2","capabilities":{"browserName":"firefox","browserVersion":"84.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1611162710292	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise"}]
+1611162710298	Marionette	TRACE	[18] MarionetteCommands actor created for window id 4294967297
+1611162710303	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967297
+1611162710304	Marionette	TRACE	Received event beforeunload for about:blank
+1611162710733	Marionette	TRACE	Received event pagehide for about:blank
+1611162711498	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967298
+1611162711499	Marionette	TRACE	Received event DOMContentLoaded for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611162712120	Marionette	TRACE	Received event pageshow for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611162712121	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1611162712138	Marionette	DEBUG	0 -> [0,3,"WebDriver:MaximizeWindow",{}]
+1611162712458	Marionette	DEBUG	0 <- [1,3,null,{"x":-8,"y":-8,"width":1936,"height":1056}]
+1611162712468	Marionette	DEBUG	0 -> [0,4,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"login_id\"]"}]
+1611162712469	Marionette	TRACE	[18] MarionetteCommands actor created for window id 4294967298
+1611162712489	Marionette	DEBUG	0 <- [1,4,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"b5353525-c2a2-4e06-96d4-19b07da11391"}}]
+1611162712492	Marionette	DEBUG	0 -> [0,5,"WebDriver:ElementSendKeys",{"id":"b5353525-c2a2-4e06-96d4-19b07da11391","text":"nicholas.rolstad@us-solar.com","value":["n","i","c","h","o","l","a","s",".","r","o","l","s","t","a","d","@","u","s","-","s","o","l","a","r",".","c","o","m"]}]
+1611162712589	Marionette	DEBUG	0 <- [1,5,null,{"value":null}]
+1611162712594	Marionette	DEBUG	0 -> [0,6,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"nextbtn\"]"}]
+1611162712597	Marionette	DEBUG	0 <- [1,6,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"f94cf312-62ed-4a26-92f8-9049f6a393df"}}]
+1611162712599	Marionette	DEBUG	0 -> [0,7,"WebDriver:ElementClick",{"id":"f94cf312-62ed-4a26-92f8-9049f6a393df"}]
+1611162712608	Marionette	TRACE	Received DOM event click for [object HTMLSpanElement]
+1611162712833	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611162712834	Marionette	DEBUG	0 <- [1,7,null,{"value":null}]
+1611162712836	Marionette	DEBUG	0 -> [0,8,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"password\"]"}]
+1611162712837	Marionette	DEBUG	0 <- [1,8,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"d3ff7531-e889-4adb-baa2-31d191d5aa12"}}]
+1611162715839	Marionette	DEBUG	0 -> [0,9,"WebDriver:ElementSendKeys",{"id":"d3ff7531-e889-4adb-baa2-31d191d5aa12","text":"Redrover1!","value":["R","e","d","r","o","v","e","r","1","!"]}]
+1611162715848	Marionette	DEBUG	0 <- [1,9,null,{"value":null}]
+1611162718851	Marionette	DEBUG	0 -> [0,10,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"nextbtn\"]"}]
+1611162718853	Marionette	DEBUG	0 <- [1,10,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"f94cf312-62ed-4a26-92f8-9049f6a393df"}}]
+1611162718855	Marionette	DEBUG	0 -> [0,11,"WebDriver:ElementClick",{"id":"f94cf312-62ed-4a26-92f8-9049f6a393df"}]
+1611162718859	Marionette	TRACE	Received DOM event click for [object HTMLSpanElement]
+1611162718859	Marionette	TRACE	Received DOM event click for [object HTMLSpanElement]
+1611162719019	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967298
+1611162719019	Marionette	TRACE	Received event beforeunload for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611162720440	Marionette	TRACE	Received event pagehide for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611162722195	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967299
+1611162722200	Marionette	TRACE	[4294967297] MarionetteEvents actor created for window id 4294967301
+1611162722201	Marionette	TRACE	[4294967298] MarionetteEvents actor created for window id 4294967303
+1611162722202	Marionette	TRACE	[4294967299] MarionetteEvents actor created for window id 4294967305
+1611162722204	Marionette	TRACE	Received event DOMContentLoaded for https://crm.zoho.com/crm/ShowHomePage.do
+1611162722445	Marionette	TRACE	[4294967300] MarionetteEvents actor created for window id 4294967307
+1611162722784	Marionette	TRACE	[4294967301] MarionetteEvents actor created for window id 4294967309
+JavaScript error: https://js.zohocdn.com/ichat/js/Jan_05_2021_1_wmsbar.js, line 1: TypeError: document.getElementById(...) is null
+1611162723430	Marionette	TRACE	[4294967300] MarionetteEvents actor created for window id 4294967312
+1611162723560	Marionette	TRACE	[4294967302] MarionetteEvents actor created for window id 4294967311
+1611162723568	Marionette	TRACE	[4294967302] MarionetteEvents actor created for window id 4294967313
+1611162723579	Marionette	TRACE	Received event pageshow for https://crm.zoho.com/crm/org640607140/tab/Home/begin
+1611162723579	Marionette	DEBUG	0 <- [1,11,null,{"value":null}]
+1611162723584	Marionette	DEBUG	0 -> [0,12,"WebDriver:FindElement",{"using":"link text","value":"Reports"}]
+1611162723631	Marionette	TRACE	[18] MarionetteCommands actor created for window id 4294967299
+1611162723672	Marionette	DEBUG	0 <- [1,12,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"716f8f33-a22f-49a1-a642-948c8f24ef29"}}]
+1611162723679	Marionette	DEBUG	0 -> [0,13,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"716f8f33-a22f-49a1-a642-948c8f24ef29","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611162723692	Marionette	DEBUG	0 <- [1,13,null,{"value":true}]
+1611162723695	Marionette	DEBUG	0 -> [0,14,"WebDriver:IsElementEnabled",{"id":"716f8f33-a22f-49a1-a642-948c8f24ef29"}]
+1611162723706	Marionette	DEBUG	0 <- [1,14,null,{"value":true}]
+1611162723710	Marionette	DEBUG	0 -> [0,15,"WebDriver:ElementClick",{"id":"716f8f33-a22f-49a1-a642-948c8f24ef29"}]
+1611162723777	Marionette	TRACE	Received DOM event click for https://crm.zoho.com/crm/org640607140/tab/Reports
+1611162724044	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611162724044	Marionette	DEBUG	0 <- [1,15,null,{"value":null}]
+1611162724047	Marionette	DEBUG	0 -> [0,16,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162724077	Marionette	TRACE	[4294967306] MarionetteEvents actor created for window id 4294967321
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1611162724320	Marionette	DEBUG	0 <- [1,16,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162724823	Marionette	DEBUG	0 -> [0,17,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162725043	Marionette	DEBUG	0 <- [1,17,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162725545	Marionette	DEBUG	0 -> [0,18,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162725766	Marionette	DEBUG	0 <- [1,18,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+JavaScript error: https://js.zohocdn.com/crm/javascript/zcrm4_aaeb97a_.js?env=crm&jscors=true, line 1: TypeError: a is undefined
+1611162726268	Marionette	DEBUG	0 -> [0,19,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162726521	Marionette	DEBUG	0 <- [1,19,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162727024	Marionette	DEBUG	0 -> [0,20,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162727225	Marionette	DEBUG	0 <- [1,20,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162727727	Marionette	DEBUG	0 -> [0,21,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162727948	Marionette	DEBUG	0 <- [1,21,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162728450	Marionette	DEBUG	0 -> [0,22,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162728651	Marionette	DEBUG	0 <- [1,22,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162729154	Marionette	DEBUG	0 -> [0,23,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162729386	Marionette	DEBUG	0 <- [1,23,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162729889	Marionette	DEBUG	0 -> [0,24,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162730097	Marionette	DEBUG	0 <- [1,24,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162730600	Marionette	DEBUG	0 -> [0,25,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162730772	Marionette	DEBUG	0 <- [1,25,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162731275	Marionette	DEBUG	0 -> [0,26,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162731446	Marionette	DEBUG	0 <- [1,26,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162731948	Marionette	DEBUG	0 -> [0,27,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162732121	Marionette	DEBUG	0 <- [1,27,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162732625	Marionette	DEBUG	0 -> [0,28,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162732899	Marionette	DEBUG	0 <- [1,28,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162733402	Marionette	DEBUG	0 -> [0,29,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162733599	Marionette	DEBUG	0 <- [1,29,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162734101	Marionette	DEBUG	0 -> [0,30,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162734258	Marionette	DEBUG	0 <- [1,30,{"error":"no such element","message":"Unable to locate element: IL Resi Deals - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162734760	Marionette	DEBUG	0 -> [0,31,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Deals - GIS"}]
+1611162734854	Marionette	DEBUG	0 <- [1,31,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"cc4cd628-57ee-4b92-9072-2cee1b3fcf1f"}}]
+1611162734858	Marionette	DEBUG	0 -> [0,32,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"cc4cd628-57ee-4b92-9072-2cee1b3fcf1f","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611162734869	Marionette	DEBUG	0 <- [1,32,null,{"value":true}]
+1611162734871	Marionette	DEBUG	0 -> [0,33,"WebDriver:IsElementEnabled",{"id":"cc4cd628-57ee-4b92-9072-2cee1b3fcf1f"}]
+1611162734874	Marionette	DEBUG	0 <- [1,33,null,{"value":true}]
+1611162734876	Marionette	DEBUG	0 -> [0,34,"WebDriver:ElementClick",{"id":"cc4cd628-57ee-4b92-9072-2cee1b3fcf1f"}]
+1611162734901	Marionette	TRACE	Received DOM event click for https://crm.zoho.com/crm/org640607140/tab/Reports/2317828000048326085?folderId=2317828000005345003&repType=tabular
+1611162735118	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611162735118	Marionette	DEBUG	0 <- [1,34,null,{"value":null}]
+1611162735120	Marionette	DEBUG	0 -> [0,35,"WebDriver:FindElement",{"using":"css selector","value":".rep_exportbtnNew"}]
+1611162735121	Marionette	DEBUG	0 <- [1,35,{"error":"no such element","message":"Unable to locate element: .rep_exportbtnNew","stacktrace":"WebDriverError@chrome: ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162735623	Marionette	DEBUG	0 -> [0,36,"WebDriver:FindElement",{"using":"css selector","value":".rep_exportbtnNew"}]
+1611162735624	Marionette	DEBUG	0 <- [1,36,{"error":"no such element","message":"Unable to locate element: .rep_exportbtnNew","stacktrace":"WebDriverError@chrome: ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162736126	Marionette	DEBUG	0 -> [0,37,"WebDriver:FindElement",{"using":"css selector","value":".rep_exportbtnNew"}]
+1611162736127	Marionette	DEBUG	0 <- [1,37,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"fb4785a7-3125-4325-8f10-744854d13e3c"}}]
+1611162736130	Marionette	DEBUG	0 -> [0,38,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"fb4785a7-3125-4325-8f10-744854d13e3c","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611162736138	Marionette	DEBUG	0 <- [1,38,null,{"value":true}]
+1611162736140	Marionette	DEBUG	0 -> [0,39,"WebDriver:IsElementEnabled",{"id":"fb4785a7-3125-4325-8f10-744854d13e3c"}]
+1611162736142	Marionette	DEBUG	0 <- [1,39,null,{"value":true}]
+1611162736144	Marionette	DEBUG	0 -> [0,40,"WebDriver:ElementClick",{"id":"fb4785a7-3125-4325-8f10-744854d13e3c"}]
+1611162736151	Marionette	TRACE	Received DOM event click for [object HTMLButtonElement]
+1611162736358	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611162736358	Marionette	DEBUG	0 <- [1,40,null,{"value":null}]
+1611162736361	Marionette	DEBUG	0 -> [0,41,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"dropDownMenu\"]/ul/li[1]"}]
+1611162736362	Marionette	DEBUG	0 <- [1,41,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"06504b80-cde2-4af2-baf4-4608c8836a4b"}}]
+1611162736365	Marionette	DEBUG	0 -> [0,42,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"06504b80-cde2-4af2-baf4-4608c8836a4b","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611162736373	Marionette	DEBUG	0 <- [1,42,null,{"value":true}]
+1611162736375	Marionette	DEBUG	0 -> [0,43,"WebDriver:IsElementEnabled",{"id":"06504b80-cde2-4af2-baf4-4608c8836a4b"}]
+1611162736376	Marionette	DEBUG	0 <- [1,43,null,{"value":true}]
+1611162736378	Marionette	DEBUG	0 -> [0,44,"WebDriver:ElementClick",{"id":"06504b80-cde2-4af2-baf4-4608c8836a4b"}]
+1611162736386	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967299
+1611162736387	Marionette	TRACE	Received event beforeunload for https://crm.zoho.com/crm/org640607140/tab/Reports/2317828000048326085?folderId=2317828000005345003&repType=tabular
+1611162736389	Marionette	TRACE	[4294967297] MarionetteEvents actor created for window id 4294967301
+1611162736389	Marionette	TRACE	[4294967298] MarionetteEvents actor created for window id 4294967303
+1611162736389	Marionette	TRACE	[4294967299] MarionetteEvents actor created for window id 4294967305
+1611162736389	Marionette	TRACE	[4294967300] MarionetteEvents actor created for window id 4294967312
+1611162736389	Marionette	TRACE	[4294967301] MarionetteEvents actor created for window id 4294967309
+1611162736389	Marionette	TRACE	[4294967302] MarionetteEvents actor created for window id 4294967313
+1611162736390	Marionette	TRACE	[4294967303] MarionetteEvents actor created for window id 4294967315
+1611162736390	Marionette	TRACE	[4294967304] MarionetteEvents actor created for window id 4294967317
+1611162736390	Marionette	TRACE	[4294967305] MarionetteEvents actor created for window id 4294967319
+1611162736390	Marionette	TRACE	[4294967306] MarionetteEvents actor created for window id 4294967322
+1611162736391	Marionette	TRACE	[4294967307] MarionetteEvents actor created for window id 4294967324
+1611162736391	Marionette	TRACE	[4294967308] MarionetteEvents actor created for window id 4294967327
+1611162736391	Marionette	TRACE	[4294967309] MarionetteEvents actor created for window id 4294967329
+1611162736393	Marionette	TRACE	Received DOM event click for [object HTMLLIElement]
+1611162741604	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611162741604	Marionette	DEBUG	0 <- [1,44,null,{"value":null}]
+1611162741611	Marionette	DEBUG	0 -> [0,45,"WebDriver:CloseWindow",{}]
+1611162741612	Marionette	DEBUG	0 <- [1,45,null,[]]
+1611162741613	Marionette	DEBUG	0 -> [0,46,"Marionette:Quit",{"flags":["eForceQuit"]}]
+1611162741613	Marionette	INFO	Stopped listening on port 50350
+1611162741780	Marionette	TRACE	Received observer notification quit-application
+1611162741809	Marionette	DEBUG	0 <- [1,46,null,{"cause":"shutdown"}]
+1611162741996	Marionette	DEBUG	Closed connection 0
+1611162742285	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1611162742286	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1611162742286	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1611162742286	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1611162742286	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1611162742286	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1611162742287	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1611162742287	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1611162742287	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1611162742288	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1611162742288	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1611162742288	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1611162742288	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1611162742289	Marionette	DEBUG	Resetting recommended pref browser.toolbars.bookmarks.visibility
+1611162742289	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1611162742289	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1611162742290	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1611162742290	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1611162742290	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1611162742290	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1611162742291	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1611162742291	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1611162742291	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1611162742291	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1611162742291	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.discovery.api_url
+1611162742292	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1611162742292	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1611162742292	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1611162742292	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1611162742292	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1611162742292	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1611162742293	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1611162742293	Marionette	DEBUG	Marionette stopped listening
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611162745546	geckodriver	INFO	geckodriver 0.21.0
+1611162745573	geckodriver	INFO	Listening on 127.0.0.1:50493
+1611162748472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NICHOL~1\\AppData\\Local\\Temp\\rust_mozprofile.TZj93rByjFtU"
+1611162750099	Marionette	TRACE	Marionette enabled
+1611162750146	Marionette	TRACE	Received observer notification toplevel-window-ready
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611162754970	Marionette	TRACE	Received observer notification marionette-startup-requested
+1611162754971	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1611162755012	Marionette	TRACE	All scripts recorded.
+1611162755012	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1611162755013	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1611162755013	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1611162755013	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1611162755013	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1611162755016	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1611162755016	Marionette	DEBUG	Setting recommended pref browser.search.update to false
+1611162755016	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1611162755017	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1611162755017	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1611162755017	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1611162755018	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1611162755018	Marionette	DEBUG	Setting recommended pref browser.toolbars.bookmarks.visibility to never
+1611162755018	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1611162755018	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1611162755021	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1611162755021	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1611162755021	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1611162755022	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1611162755022	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1611162755022	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1611162755024	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1611162755024	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1611162755024	Marionette	DEBUG	Setting recommended pref extensions.getAddons.discovery.api_url to data:, 
+1611162755024	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1611162755025	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1611162755025	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1611162755025	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1611162755025	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1611162755026	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1611162755029	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1611162755033	Marionette	INFO	Listening on port 50501
+1611162755034	Marionette	DEBUG	Marionette is listening
+1611162755330	Marionette	DEBUG	Remote agent not available for this build and platform
+1611162755331	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:50528
+1611162755341	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1611162755342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611162755357	Marionette	TRACE	[18] Frame script loaded
+1611162755381	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"bd87b62f-3a51-4cfc-9c89-9537238cf555","capabilities":{"browserName":"firefox","browserVersion":"84.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1611162755392	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise"}]
+1611162755411	Marionette	TRACE	[18] MarionetteCommands actor created for window id 4294967297
+1611162755416	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967297
+1611162755417	Marionette	TRACE	Received event beforeunload for about:blank
+1611162755817	Marionette	TRACE	Received event pagehide for about:blank
+1611162756508	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967298
+1611162756508	Marionette	TRACE	Received event DOMContentLoaded for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611162757122	Marionette	TRACE	Received event pageshow for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611162757124	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1611162757133	Marionette	DEBUG	0 -> [0,3,"WebDriver:MaximizeWindow",{}]
+1611162757403	Marionette	DEBUG	0 <- [1,3,null,{"x":-8,"y":-8,"width":1936,"height":1056}]
+1611162757409	Marionette	DEBUG	0 -> [0,4,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"login_id\"]"}]
+1611162757410	Marionette	TRACE	[18] MarionetteCommands actor created for window id 4294967298
+1611162757419	Marionette	DEBUG	0 <- [1,4,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"e5224936-c388-41a6-9319-2c122ad58521"}}]
+1611162757424	Marionette	DEBUG	0 -> [0,5,"WebDriver:ElementSendKeys",{"id":"e5224936-c388-41a6-9319-2c122ad58521","text":"nicholas.rolstad@us-solar.com","value":["n","i","c","h","o","l","a","s",".","r","o","l","s","t","a","d","@","u","s","-","s","o","l","a","r",".","c","o","m"]}]
+1611162757499	Marionette	DEBUG	0 <- [1,5,null,{"value":null}]
+1611162757507	Marionette	DEBUG	0 -> [0,6,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"nextbtn\"]"}]
+1611162757509	Marionette	DEBUG	0 <- [1,6,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"f94a5736-a863-45b6-adfa-fcd980dc46d2"}}]
+1611162757511	Marionette	DEBUG	0 -> [0,7,"WebDriver:ElementClick",{"id":"f94a5736-a863-45b6-adfa-fcd980dc46d2"}]
+1611162757519	Marionette	TRACE	Received DOM event click for [object HTMLSpanElement]
+1611162757747	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611162757747	Marionette	DEBUG	0 <- [1,7,null,{"value":null}]
+1611162757749	Marionette	DEBUG	0 -> [0,8,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"password\"]"}]
+1611162757751	Marionette	DEBUG	0 <- [1,8,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"a4d95ac4-ad4c-47c9-be7e-6ce072b73b8d"}}]
+1611162760753	Marionette	DEBUG	0 -> [0,9,"WebDriver:ElementSendKeys",{"id":"a4d95ac4-ad4c-47c9-be7e-6ce072b73b8d","text":"Redrover1!","value":["R","e","d","r","o","v","e","r","1","!"]}]
+1611162760762	Marionette	DEBUG	0 <- [1,9,null,{"value":null}]
+1611162763765	Marionette	DEBUG	0 -> [0,10,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"nextbtn\"]"}]
+1611162763767	Marionette	DEBUG	0 <- [1,10,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"f94a5736-a863-45b6-adfa-fcd980dc46d2"}}]
+1611162763769	Marionette	DEBUG	0 -> [0,11,"WebDriver:ElementClick",{"id":"f94a5736-a863-45b6-adfa-fcd980dc46d2"}]
+1611162763774	Marionette	TRACE	Received DOM event click for [object HTMLSpanElement]
+1611162763774	Marionette	TRACE	Received DOM event click for [object HTMLSpanElement]
+1611162763938	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967298
+1611162763938	Marionette	TRACE	Received event beforeunload for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611162764604	Marionette	TRACE	Received event pagehide for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611162766484	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967299
+1611162766492	Marionette	TRACE	[4294967297] MarionetteEvents actor created for window id 4294967301
+1611162766492	Marionette	TRACE	[4294967298] MarionetteEvents actor created for window id 4294967303
+1611162766493	Marionette	TRACE	[4294967299] MarionetteEvents actor created for window id 4294967305
+1611162766494	Marionette	TRACE	Received event DOMContentLoaded for https://crm.zoho.com/crm/ShowHomePage.do
+1611162766769	Marionette	TRACE	[4294967300] MarionetteEvents actor created for window id 4294967307
+1611162767068	Marionette	TRACE	[4294967301] MarionetteEvents actor created for window id 4294967309
+JavaScript error: https://js.zohocdn.com/ichat/js/Jan_05_2021_1_wmsbar.js, line 1: TypeError: document.getElementById(...) is null
+1611162767807	Marionette	TRACE	[4294967300] MarionetteEvents actor created for window id 4294967312
+1611162767930	Marionette	TRACE	[4294967302] MarionetteEvents actor created for window id 4294967311
+1611162767940	Marionette	TRACE	[4294967302] MarionetteEvents actor created for window id 4294967313
+1611162767953	Marionette	TRACE	Received event pageshow for https://crm.zoho.com/crm/org640607140/tab/Home/begin
+1611162767954	Marionette	DEBUG	0 <- [1,11,null,{"value":null}]
+1611162767959	Marionette	DEBUG	0 -> [0,12,"WebDriver:FindElement",{"using":"link text","value":"Reports"}]
+1611162767991	Marionette	TRACE	[18] MarionetteCommands actor created for window id 4294967299
+1611162768029	Marionette	DEBUG	0 <- [1,12,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"b72719e6-b3a8-4e80-bc20-7f340cb8bba7"}}]
+1611162768035	Marionette	DEBUG	0 -> [0,13,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"b72719e6-b3a8-4e80-bc20-7f340cb8bba7","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611162768058	Marionette	DEBUG	0 <- [1,13,null,{"value":true}]
+1611162768061	Marionette	DEBUG	0 -> [0,14,"WebDriver:IsElementEnabled",{"id":"b72719e6-b3a8-4e80-bc20-7f340cb8bba7"}]
+1611162768066	Marionette	DEBUG	0 <- [1,14,null,{"value":true}]
+1611162768070	Marionette	DEBUG	0 -> [0,15,"WebDriver:ElementClick",{"id":"b72719e6-b3a8-4e80-bc20-7f340cb8bba7"}]
+1611162768122	Marionette	TRACE	Received DOM event click for https://crm.zoho.com/crm/org640607140/tab/Reports
+1611162768294	Marionette	TRACE	[4294967306] MarionetteEvents actor created for window id 4294967321
+1611162768336	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611162768337	Marionette	DEBUG	0 <- [1,15,null,{"value":null}]
+1611162768340	Marionette	DEBUG	0 -> [0,16,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Leads - GIS"}]
+1611162768605	Marionette	DEBUG	0 <- [1,16,{"error":"no such element","message":"Unable to locate element: IL Resi Leads - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162769107	Marionette	DEBUG	0 -> [0,17,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Leads - GIS"}]
+1611162769369	Marionette	DEBUG	0 <- [1,17,{"error":"no such element","message":"Unable to locate element: IL Resi Leads - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162769872	Marionette	DEBUG	0 -> [0,18,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Leads - GIS"}]
+1611162770075	Marionette	DEBUG	0 <- [1,18,{"error":"no such element","message":"Unable to locate element: IL Resi Leads - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+JavaScript error: https://js.zohocdn.com/crm/javascript/zcrm4_aaeb97a_.js?env=crm&jscors=true, line 1: TypeError: a is undefined
+1611162770577	Marionette	DEBUG	0 -> [0,19,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Leads - GIS"}]
+1611162770779	Marionette	DEBUG	0 <- [1,19,{"error":"no such element","message":"Unable to locate element: IL Resi Leads - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162771281	Marionette	DEBUG	0 -> [0,20,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Leads - GIS"}]
+1611162771376	Marionette	DEBUG	0 <- [1,20,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"6f235d95-a89f-4e06-9cd4-3c868d36bde5"}}]
+1611162771380	Marionette	DEBUG	0 -> [0,21,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"6f235d95-a89f-4e06-9cd4-3c868d36bde5","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611162771388	Marionette	DEBUG	0 <- [1,21,null,{"value":true}]
+1611162771390	Marionette	DEBUG	0 -> [0,22,"WebDriver:IsElementEnabled",{"id":"6f235d95-a89f-4e06-9cd4-3c868d36bde5"}]
+1611162771391	Marionette	DEBUG	0 <- [1,22,null,{"value":true}]
+1611162771393	Marionette	DEBUG	0 -> [0,23,"WebDriver:ElementClick",{"id":"6f235d95-a89f-4e06-9cd4-3c868d36bde5"}]
+1611162771405	Marionette	TRACE	Received DOM event click for https://crm.zoho.com/crm/org640607140/tab/Reports/2317828000048326017?folderId=2317828000005345003&repType=tabular
+1611162771620	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611162771620	Marionette	DEBUG	0 <- [1,23,null,{"value":null}]
+1611162771623	Marionette	DEBUG	0 -> [0,24,"WebDriver:FindElement",{"using":"css selector","value":".rep_exportbtnNew"}]
+1611162771629	Marionette	DEBUG	0 <- [1,24,{"error":"no such element","message":"Unable to locate element: .rep_exportbtnNew","stacktrace":"WebDriverError@chrome: ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162772131	Marionette	DEBUG	0 -> [0,25,"WebDriver:FindElement",{"using":"css selector","value":".rep_exportbtnNew"}]
+1611162772133	Marionette	DEBUG	0 <- [1,25,{"error":"no such element","message":"Unable to locate element: .rep_exportbtnNew","stacktrace":"WebDriverError@chrome: ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162772635	Marionette	DEBUG	0 -> [0,26,"WebDriver:FindElement",{"using":"css selector","value":".rep_exportbtnNew"}]
+1611162772638	Marionette	DEBUG	0 <- [1,26,{"error":"no such element","message":"Unable to locate element: .rep_exportbtnNew","stacktrace":"WebDriverError@chrome: ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611162773140	Marionette	DEBUG	0 -> [0,27,"WebDriver:FindElement",{"using":"css selector","value":".rep_exportbtnNew"}]
+1611162773141	Marionette	DEBUG	0 <- [1,27,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"a6e26a59-2619-4802-8109-0b4b8b5575de"}}]
+1611162773145	Marionette	DEBUG	0 -> [0,28,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"a6e26a59-2619-4802-8109-0b4b8b5575de","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611162773156	Marionette	DEBUG	0 <- [1,28,null,{"value":true}]
+1611162773158	Marionette	DEBUG	0 -> [0,29,"WebDriver:IsElementEnabled",{"id":"a6e26a59-2619-4802-8109-0b4b8b5575de"}]
+1611162773317	Marionette	DEBUG	0 <- [1,29,null,{"value":true}]
+1611162773320	Marionette	DEBUG	0 -> [0,30,"WebDriver:ElementClick",{"id":"a6e26a59-2619-4802-8109-0b4b8b5575de"}]
+1611162773331	Marionette	TRACE	Received DOM event click for [object HTMLButtonElement]
+1611162773533	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611162773533	Marionette	DEBUG	0 <- [1,30,null,{"value":null}]
+1611162773536	Marionette	DEBUG	0 -> [0,31,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"dropDownMenu\"]/ul/li[1]"}]
+1611162773539	Marionette	DEBUG	0 <- [1,31,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"13a17294-021c-443a-abc7-1de3767014ac"}}]
+1611162773543	Marionette	DEBUG	0 -> [0,32,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"13a17294-021c-443a-abc7-1de3767014ac","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611162773553	Marionette	DEBUG	0 <- [1,32,null,{"value":true}]
+1611162773555	Marionette	DEBUG	0 -> [0,33,"WebDriver:IsElementEnabled",{"id":"13a17294-021c-443a-abc7-1de3767014ac"}]
+1611162773557	Marionette	DEBUG	0 <- [1,33,null,{"value":true}]
+1611162773559	Marionette	DEBUG	0 -> [0,34,"WebDriver:ElementClick",{"id":"13a17294-021c-443a-abc7-1de3767014ac"}]
+1611162773569	Marionette	TRACE	[18] MarionetteEvents actor created for window id 4294967299
+1611162773570	Marionette	TRACE	Received event beforeunload for https://crm.zoho.com/crm/org640607140/tab/Reports/2317828000048326017?folderId=2317828000005345003&repType=tabular
+1611162773570	Marionette	TRACE	[4294967297] MarionetteEvents actor created for window id 4294967301
+1611162773571	Marionette	TRACE	[4294967298] MarionetteEvents actor created for window id 4294967303
+1611162773571	Marionette	TRACE	[4294967299] MarionetteEvents actor created for window id 4294967305
+1611162773571	Marionette	TRACE	[4294967300] MarionetteEvents actor created for window id 4294967312
+1611162773571	Marionette	TRACE	[4294967301] MarionetteEvents actor created for window id 4294967309
+1611162773571	Marionette	TRACE	[4294967302] MarionetteEvents actor created for window id 4294967313
+1611162773572	Marionette	TRACE	[4294967303] MarionetteEvents actor created for window id 4294967315
+1611162773572	Marionette	TRACE	[4294967304] MarionetteEvents actor created for window id 4294967317
+1611162773572	Marionette	TRACE	[4294967305] MarionetteEvents actor created for window id 4294967319
+1611162773572	Marionette	TRACE	[4294967306] MarionetteEvents actor created for window id 4294967322
+1611162773572	Marionette	TRACE	[4294967307] MarionetteEvents actor created for window id 4294967324
+1611162773572	Marionette	TRACE	[4294967308] MarionetteEvents actor created for window id 4294967327
+1611162773573	Marionette	TRACE	[4294967309] MarionetteEvents actor created for window id 4294967329
+1611162773575	Marionette	TRACE	Received DOM event click for [object HTMLLIElement]
+1611162778781	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611162778782	Marionette	DEBUG	0 <- [1,34,null,{"value":null}]
+1611162778784	Marionette	DEBUG	0 -> [0,35,"WebDriver:CloseWindow",{}]
+1611162778784	Marionette	DEBUG	0 <- [1,35,null,[]]
+1611162778784	Marionette	DEBUG	0 -> [0,36,"Marionette:Quit",{"flags":["eForceQuit"]}]
+1611162778784	Marionette	INFO	Stopped listening on port 50501
+1611162778930	Marionette	TRACE	Received observer notification quit-application
+1611162778953	Marionette	DEBUG	0 <- [1,36,null,{"cause":"shutdown"}]
+1611162779052	Marionette	DEBUG	Closed connection 0
+1611162779281	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1611162779281	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1611162779281	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1611162779281	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1611162779281	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1611162779281	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1611162779282	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1611162779282	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1611162779282	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1611162779282	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1611162779282	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1611162779282	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1611162779282	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1611162779282	Marionette	DEBUG	Resetting recommended pref browser.toolbars.bookmarks.visibility
+1611162779282	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1611162779282	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1611162779283	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1611162779283	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1611162779283	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1611162779283	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1611162779283	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1611162779283	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1611162779283	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1611162779283	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1611162779283	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.discovery.api_url
+1611162779283	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1611162779283	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1611162779283	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1611162779283	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1611162779283	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1611162779283	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1611162779284	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1611162779284	Marionette	DEBUG	Marionette stopped listening
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611164355692	geckodriver	INFO	geckodriver 0.21.0
+1611164355712	geckodriver	INFO	Listening on 127.0.0.1:51128
+1611164358629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NICHOL~1\\AppData\\Local\\Temp\\rust_mozprofile.vMZqG8i4RfvD"
+1611164359729	Marionette	TRACE	Marionette enabled
+1611164359757	Marionette	TRACE	Received observer notification toplevel-window-ready
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611164363383	Marionette	TRACE	Received observer notification marionette-startup-requested
+1611164363383	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1611164363447	Marionette	TRACE	All scripts recorded.
+1611164363448	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1611164363448	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1611164363448	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1611164363448	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1611164363449	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1611164363451	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1611164363452	Marionette	DEBUG	Setting recommended pref browser.search.update to false
+1611164363452	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1611164363452	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1611164363452	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1611164363452	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1611164363453	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1611164363453	Marionette	DEBUG	Setting recommended pref browser.toolbars.bookmarks.visibility to never
+1611164363453	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1611164363453	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1611164363456	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1611164363456	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1611164363457	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1611164363457	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1611164363457	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1611164363457	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1611164363460	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1611164363460	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1611164363460	Marionette	DEBUG	Setting recommended pref extensions.getAddons.discovery.api_url to data:, 
+1611164363461	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1611164363461	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1611164363461	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1611164363461	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1611164363462	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1611164363462	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1611164363465	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1611164363470	Marionette	INFO	Listening on port 51137
+1611164363471	Marionette	DEBUG	Marionette is listening
+1611164363864	Marionette	DEBUG	Remote agent not available for this build and platform
+1611164363865	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:51155
+1611164363875	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1611164363875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611164363885	Marionette	TRACE	[21] Frame script loaded
+1611164363902	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"70938311-7810-417b-983d-40d79000cd1a","capabilities":{"browserName":"firefox","browserVersion":"84.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1611164363921	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise"}]
+1611164363928	Marionette	TRACE	[21] MarionetteCommands actor created for window id 6442450945
+1611164363931	Marionette	TRACE	[21] MarionetteEvents actor created for window id 6442450945
+1611164363932	Marionette	TRACE	Received event beforeunload for about:blank
+1611164364350	Marionette	TRACE	Received event pagehide for about:blank
+1611164365108	Marionette	TRACE	[21] MarionetteEvents actor created for window id 6442450946
+1611164365109	Marionette	TRACE	Received event DOMContentLoaded for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611164365714	Marionette	TRACE	Received event pageshow for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611164365715	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1611164365726	Marionette	DEBUG	0 -> [0,3,"WebDriver:MaximizeWindow",{}]
+1611164366044	Marionette	DEBUG	0 <- [1,3,null,{"x":1912,"y":-8,"width":1936,"height":1056}]
+1611164366055	Marionette	DEBUG	0 -> [0,4,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"login_id\"]"}]
+1611164366056	Marionette	TRACE	[21] MarionetteCommands actor created for window id 6442450946
+1611164366070	Marionette	DEBUG	0 <- [1,4,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"a7b18b17-683e-4425-a5d0-fbc321507417"}}]
+1611164366074	Marionette	DEBUG	0 -> [0,5,"WebDriver:ElementSendKeys",{"id":"a7b18b17-683e-4425-a5d0-fbc321507417","text":"nicholas.rolstad@us-solar.com","value":["n","i","c","h","o","l","a","s",".","r","o","l","s","t","a","d","@","u","s","-","s","o","l","a","r",".","c","o","m"]}]
+1611164366207	Marionette	DEBUG	0 <- [1,5,null,{"value":null}]
+1611164366213	Marionette	DEBUG	0 -> [0,6,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"nextbtn\"]"}]
+1611164366217	Marionette	DEBUG	0 <- [1,6,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"38d70980-f7fd-4e31-9aeb-c64208a7b84d"}}]
+1611164366220	Marionette	DEBUG	0 -> [0,7,"WebDriver:ElementClick",{"id":"38d70980-f7fd-4e31-9aeb-c64208a7b84d"}]
+1611164366234	Marionette	TRACE	Received DOM event click for [object HTMLSpanElement]
+1611164366467	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611164366467	Marionette	DEBUG	0 <- [1,7,null,{"value":null}]
+1611164366471	Marionette	DEBUG	0 -> [0,8,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"password\"]"}]
+1611164366473	Marionette	DEBUG	0 <- [1,8,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"b0d2c5d0-e7c6-4118-a867-44e127bf2505"}}]
+1611164369476	Marionette	DEBUG	0 -> [0,9,"WebDriver:ElementSendKeys",{"id":"b0d2c5d0-e7c6-4118-a867-44e127bf2505","text":"Redrover1!","value":["R","e","d","r","o","v","e","r","1","!"]}]
+1611164369486	Marionette	DEBUG	0 <- [1,9,null,{"value":null}]
+1611164372489	Marionette	DEBUG	0 -> [0,10,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"nextbtn\"]"}]
+1611164372490	Marionette	DEBUG	0 <- [1,10,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"38d70980-f7fd-4e31-9aeb-c64208a7b84d"}}]
+1611164372493	Marionette	DEBUG	0 -> [0,11,"WebDriver:ElementClick",{"id":"38d70980-f7fd-4e31-9aeb-c64208a7b84d"}]
+1611164372498	Marionette	TRACE	Received DOM event click for [object HTMLSpanElement]
+1611164372498	Marionette	TRACE	Received DOM event click for [object HTMLSpanElement]
+1611164372649	Marionette	TRACE	[21] MarionetteEvents actor created for window id 6442450946
+1611164372649	Marionette	TRACE	Received event beforeunload for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611164373968	Marionette	TRACE	Received event pagehide for https://accounts.zoho.com/signin?servicename=ZohoCRM&signupurl=https://www.zoho.com/crm/lp/signup.html?plan=enterprise
+1611164376402	Marionette	TRACE	[21] MarionetteEvents actor created for window id 6442450947
+1611164376411	Marionette	TRACE	Received event DOMContentLoaded for https://crm.zoho.com/crm/ShowHomePage.do
+1611164376412	Marionette	TRACE	[6442450945] MarionetteEvents actor created for window id 6442450949
+1611164376434	Marionette	TRACE	[6442450946] MarionetteEvents actor created for window id 6442450951
+1611164376434	Marionette	TRACE	[6442450947] MarionetteEvents actor created for window id 6442450953
+1611164376671	Marionette	TRACE	[6442450948] MarionetteEvents actor created for window id 6442450955
+1611164377112	Marionette	TRACE	[6442450949] MarionetteEvents actor created for window id 6442450957
+JavaScript error: https://js.zohocdn.com/ichat/js/Jan_05_2021_1_wmsbar.js, line 1: TypeError: document.getElementById(...) is null
+1611164377961	Marionette	TRACE	[6442450948] MarionetteEvents actor created for window id 6442450958
+1611164377983	Marionette	TRACE	[6442450950] MarionetteEvents actor created for window id 6442450960
+1611164377996	Marionette	TRACE	[6442450950] MarionetteEvents actor created for window id 6442450961
+1611164378012	Marionette	TRACE	Received event pageshow for https://crm.zoho.com/crm/org640607140/tab/Home/begin
+1611164378013	Marionette	DEBUG	0 <- [1,11,null,{"value":null}]
+1611164378020	Marionette	DEBUG	0 -> [0,12,"WebDriver:FindElement",{"using":"link text","value":"Reports"}]
+1611164378051	Marionette	TRACE	[21] MarionetteCommands actor created for window id 6442450947
+1611164378105	Marionette	DEBUG	0 <- [1,12,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"64d8a709-717b-4708-bf5d-b81e00a23c5f"}}]
+1611164378115	Marionette	DEBUG	0 -> [0,13,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"64d8a709-717b-4708-bf5d-b81e00a23c5f","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611164378135	Marionette	DEBUG	0 <- [1,13,null,{"value":true}]
+1611164378138	Marionette	DEBUG	0 -> [0,14,"WebDriver:IsElementEnabled",{"id":"64d8a709-717b-4708-bf5d-b81e00a23c5f"}]
+1611164378160	Marionette	DEBUG	0 <- [1,14,null,{"value":true}]
+1611164378164	Marionette	DEBUG	0 -> [0,15,"WebDriver:ElementClick",{"id":"64d8a709-717b-4708-bf5d-b81e00a23c5f"}]
+1611164378215	Marionette	TRACE	Received DOM event click for https://crm.zoho.com/crm/org640607140/tab/Reports
+1611164378489	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611164378489	Marionette	DEBUG	0 <- [1,15,null,{"value":null}]
+1611164378493	Marionette	DEBUG	0 -> [0,16,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Leads - GIS"}]
+1611164378738	Marionette	DEBUG	0 <- [1,16,{"error":"no such element","message":"Unable to locate element: IL Resi Leads - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611164379242	Marionette	DEBUG	0 -> [0,17,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Leads - GIS"}]
+1611164379500	Marionette	DEBUG	0 <- [1,17,{"error":"no such element","message":"Unable to locate element: IL Resi Leads - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+JavaScript error: https://js.zohocdn.com/crm/javascript/zcrm4_aaeb97a_.js?env=crm&jscors=true, line 1: TypeError: a is undefined
+1611164380002	Marionette	DEBUG	0 -> [0,18,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Leads - GIS"}]
+1611164380220	Marionette	DEBUG	0 <- [1,18,{"error":"no such element","message":"Unable to locate element: IL Resi Leads - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611164380722	Marionette	DEBUG	0 -> [0,19,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Leads - GIS"}]
+1611164380914	Marionette	DEBUG	0 <- [1,19,{"error":"no such element","message":"Unable to locate element: IL Resi Leads - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611164381417	Marionette	DEBUG	0 -> [0,20,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Leads - GIS"}]
+1611164381607	Marionette	DEBUG	0 <- [1,20,{"error":"no such element","message":"Unable to locate element: IL Resi Leads - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611164382110	Marionette	DEBUG	0 -> [0,21,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Leads - GIS"}]
+1611164382311	Marionette	DEBUG	0 <- [1,21,{"error":"no such element","message":"Unable to locate element: IL Resi Leads - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611164382813	Marionette	DEBUG	0 -> [0,22,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Leads - GIS"}]
+1611164383039	Marionette	DEBUG	0 <- [1,22,{"error":"no such element","message":"Unable to locate element: IL Resi Leads - GIS","stacktrace":"WebDriverError@chrom ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611164383542	Marionette	DEBUG	0 -> [0,23,"WebDriver:FindElement",{"using":"link text","value":"IL Resi Leads - GIS"}]
+1611164383690	Marionette	DEBUG	0 <- [1,23,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"63c83e35-6ae8-46e8-982d-a4601a1ab1da"}}]
+1611164383695	Marionette	DEBUG	0 -> [0,24,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"63c83e35-6ae8-46e8-982d-a4601a1ab1da","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611164383716	Marionette	DEBUG	0 <- [1,24,null,{"value":true}]
+1611164383718	Marionette	DEBUG	0 -> [0,25,"WebDriver:IsElementEnabled",{"id":"63c83e35-6ae8-46e8-982d-a4601a1ab1da"}]
+1611164383720	Marionette	DEBUG	0 <- [1,25,null,{"value":true}]
+1611164383722	Marionette	DEBUG	0 -> [0,26,"WebDriver:ElementClick",{"id":"63c83e35-6ae8-46e8-982d-a4601a1ab1da"}]
+1611164383749	Marionette	TRACE	Received DOM event click for https://crm.zoho.com/crm/org640607140/tab/Reports/2317828000048365005?folderId=2317828000005345003&repType=tabular
+1611164383971	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611164383971	Marionette	DEBUG	0 <- [1,26,null,{"value":null}]
+1611164383974	Marionette	DEBUG	0 -> [0,27,"WebDriver:FindElement",{"using":"css selector","value":".rep_exportbtnNew"}]
+1611164383975	Marionette	DEBUG	0 <- [1,27,{"error":"no such element","message":"Unable to locate element: .rep_exportbtnNew","stacktrace":"WebDriverError@chrome: ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611164384477	Marionette	DEBUG	0 -> [0,28,"WebDriver:FindElement",{"using":"css selector","value":".rep_exportbtnNew"}]
+1611164384478	Marionette	DEBUG	0 <- [1,28,{"error":"no such element","message":"Unable to locate element: .rep_exportbtnNew","stacktrace":"WebDriverError@chrome: ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611164384982	Marionette	DEBUG	0 -> [0,29,"WebDriver:FindElement",{"using":"css selector","value":".rep_exportbtnNew"}]
+1611164384984	Marionette	DEBUG	0 <- [1,29,{"error":"no such element","message":"Unable to locate element: .rep_exportbtnNew","stacktrace":"WebDriverError@chrome: ... entError@chrome://marionette/content/error.js:393:5\nelement.find/</<@chrome://marionette/content/element.js:467:16\n"},null]
+1611164385486	Marionette	DEBUG	0 -> [0,30,"WebDriver:FindElement",{"using":"css selector","value":".rep_exportbtnNew"}]
+1611164385487	Marionette	DEBUG	0 <- [1,30,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"be4a1cc4-0f34-4c17-99f6-2ce742e5afcc"}}]
+1611164385490	Marionette	DEBUG	0 -> [0,31,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"be4a1cc4-0f34-4c17-99f6-2ce742e5afcc","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611164385499	Marionette	DEBUG	0 <- [1,31,null,{"value":true}]
+1611164385501	Marionette	DEBUG	0 -> [0,32,"WebDriver:IsElementEnabled",{"id":"be4a1cc4-0f34-4c17-99f6-2ce742e5afcc"}]
+1611164385504	Marionette	DEBUG	0 <- [1,32,null,{"value":true}]
+1611164385505	Marionette	DEBUG	0 -> [0,33,"WebDriver:ElementClick",{"id":"be4a1cc4-0f34-4c17-99f6-2ce742e5afcc"}]
+1611164385513	Marionette	TRACE	Received DOM event click for [object HTMLButtonElement]
+1611164385721	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611164385721	Marionette	DEBUG	0 <- [1,33,null,{"value":null}]
+1611164385723	Marionette	DEBUG	0 -> [0,34,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"dropDownMenu\"]/ul/li[1]"}]
+1611164385725	Marionette	DEBUG	0 <- [1,34,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"eee2dac1-c25d-4902-ba03-b6aa7bcd2420"}}]
+1611164385728	Marionette	DEBUG	0 -> [0,35,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"eee2dac1-c25d-4902-ba03-b6aa7bcd2420","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1611164385736	Marionette	DEBUG	0 <- [1,35,null,{"value":true}]
+1611164385738	Marionette	DEBUG	0 -> [0,36,"WebDriver:IsElementEnabled",{"id":"eee2dac1-c25d-4902-ba03-b6aa7bcd2420"}]
+1611164385739	Marionette	DEBUG	0 <- [1,36,null,{"value":true}]
+1611164385741	Marionette	DEBUG	0 -> [0,37,"WebDriver:ElementClick",{"id":"eee2dac1-c25d-4902-ba03-b6aa7bcd2420"}]
+1611164385750	Marionette	TRACE	[21] MarionetteEvents actor created for window id 6442450947
+1611164385751	Marionette	TRACE	Received event beforeunload for https://crm.zoho.com/crm/org640607140/tab/Reports/2317828000048365005?folderId=2317828000005345003&repType=tabular
+1611164385752	Marionette	TRACE	[6442450945] MarionetteEvents actor created for window id 6442450949
+1611164385752	Marionette	TRACE	[6442450946] MarionetteEvents actor created for window id 6442450951
+1611164385752	Marionette	TRACE	[6442450947] MarionetteEvents actor created for window id 6442450953
+1611164385752	Marionette	TRACE	[6442450948] MarionetteEvents actor created for window id 6442450958
+1611164385753	Marionette	TRACE	[6442450949] MarionetteEvents actor created for window id 6442450957
+1611164385753	Marionette	TRACE	[6442450950] MarionetteEvents actor created for window id 6442450961
+1611164385753	Marionette	TRACE	[6442450951] MarionetteEvents actor created for window id 6442450963
+1611164385753	Marionette	TRACE	[6442450952] MarionetteEvents actor created for window id 6442450965
+1611164385754	Marionette	TRACE	[6442450953] MarionetteEvents actor created for window id 6442450967
+1611164385754	Marionette	TRACE	[6442450954] MarionetteEvents actor created for window id 6442450970
+1611164385754	Marionette	TRACE	[6442450955] MarionetteEvents actor created for window id 6442450972
+1611164385754	Marionette	TRACE	[6442450956] MarionetteEvents actor created for window id 6442450975
+1611164385755	Marionette	TRACE	[6442450957] MarionetteEvents actor created for window id 6442450977
+1611164385756	Marionette	TRACE	Received DOM event click for [object HTMLLIElement]
+1611164390965	Marionette	TRACE	Canceled page load listener because no navigation has been detected
+1611164390965	Marionette	DEBUG	0 <- [1,37,null,{"value":null}]
+1611164390967	Marionette	DEBUG	0 -> [0,38,"WebDriver:CloseWindow",{}]
+1611164390967	Marionette	DEBUG	0 <- [1,38,null,[]]
+1611164390968	Marionette	DEBUG	0 -> [0,39,"Marionette:Quit",{"flags":["eForceQuit"]}]
+1611164390968	Marionette	INFO	Stopped listening on port 51137
+1611164391088	Marionette	TRACE	Received observer notification quit-application
+1611164391104	Marionette	DEBUG	0 <- [1,39,null,{"cause":"shutdown"}]
+1611164391200	Marionette	DEBUG	Closed connection 0
+1611164391478	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1611164391478	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1611164391478	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1611164391478	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1611164391478	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1611164391478	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1611164391478	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1611164391479	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1611164391479	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1611164391479	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1611164391479	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1611164391479	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1611164391479	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1611164391479	Marionette	DEBUG	Resetting recommended pref browser.toolbars.bookmarks.visibility
+1611164391479	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1611164391479	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1611164391479	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1611164391479	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1611164391479	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1611164391479	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1611164391479	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1611164391480	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1611164391480	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1611164391480	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1611164391480	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.discovery.api_url
+1611164391480	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1611164391480	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1611164391480	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1611164391480	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1611164391480	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1611164391480	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1611164391481	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1611164391481	Marionette	DEBUG	Marionette stopped listening
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
